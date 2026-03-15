@@ -1,0 +1,304 @@
+{
+  "scenario": "fantasy_kingdom",
+  "timestamp": "20260315_114107",
+  "rounds": [
+    {
+      "round": 1,
+      "label": "Initial Positions",
+      "outputs": [
+        {
+          "agent_name": "King Aldric \ud83d\udc51",
+          "round_number": 1,
+          "position": {
+            "recommendation": "fight",
+            "reasoning": "I will not give away land, our military is strong enough to protect our territory and feed our people through other means",
+            "confidence": 0.8,
+            "key_concern": "preserving territory"
+          },
+          "critiques": [],
+          "negotiation_proposals": [],
+          "reactions": [],
+          "interruption": null,
+          "tool_call": null
+        },
+        {
+          "agent_name": "General Thorne \u2694\ufe0f",
+          "round_number": 1,
+          "position": {
+            "recommendation": "fight",
+            "reasoning": "our army can take the grain by force, and accepting the neighbor's offer would be a sign of weakness",
+            "confidence": 0.9,
+            "key_concern": "rebel activity"
+          },
+          "critiques": [],
+          "negotiation_proposals": [],
+          "reactions": [],
+          "interruption": null,
+          "tool_call": null
+        },
+        {
+          "agent_name": "Economist Sera \ud83d\udcca",
+          "round_number": 1,
+          "position": {
+            "recommendation": "renegotiate",
+            "reasoning": "Given the estimated market size and demand score, we can likely negotiate a better deal with our neighbor, preserving our border province while addressing the famine",
+            "confidence": 0.8,
+            "key_concern": "preserving trade relationships"
+          },
+          "critiques": [],
+          "negotiation_proposals": [],
+          "reactions": [],
+          "interruption": null,
+          "tool_call": null
+        },
+        {
+          "agent_name": "Spymaster Vale \ud83d\udd75\ufe0f",
+          "round_number": 1,
+          "position": {
+            "recommendation": "renegotiate",
+            "reasoning": "I suspect the neighbor is hiding something, and I don't want to give away a border province without knowing the full story",
+            "confidence": 0.8,
+            "key_concern": "potential hidden agendas"
+          },
+          "critiques": [],
+          "negotiation_proposals": [],
+          "reactions": [],
+          "interruption": null,
+          "tool_call": null
+        },
+        {
+          "agent_name": "High Priestess Yara \ud83d\ude4f",
+          "round_number": 1,
+          "position": {
+            "recommendation": "ration",
+            "reasoning": "Rationing will allow us to distribute the remaining grain fairly among all citizens, prioritizing the poor and vulnerable, while accepting the neighbor's offer would compromise our moral obligation to protect our own people and territory",
+            "confidence": 0.8,
+            "key_concern": "protecting the poor"
+          },
+          "critiques": [],
+          "negotiation_proposals": [],
+          "reactions": [],
+          "interruption": null,
+          "tool_call": null
+        }
+      ],
+      "market": {
+        "consensus": 0.415,
+        "disagreement": 0.655
+      },
+      "black_swan": null
+    },
+    {
+      "round": 2,
+      "label": "Critique & Rebuttal",
+      "outputs": [
+        {
+          "agent_name": "King Aldric \ud83d\udc51",
+          "round_number": 2,
+          "position": {
+            "recommendation": "fight",
+            "reasoning": "I will not give away land, our military is strong enough to protect our territory and feed our people through other means",
+            "confidence": 0.8,
+            "key_concern": "preserving territory"
+          },
+          "critiques": [],
+          "negotiation_proposals": [],
+          "reactions": [],
+          "interruption": null,
+          "tool_call": null
+        },
+        {
+          "agent_name": "General Thorne \u2694\ufe0f",
+          "round_number": 2,
+          "position": {
+            "recommendation": "fight",
+            "reasoning": "our army can take the grain by force, and accepting the neighbor's offer would be a sign of weakness",
+            "confidence": 0.9,
+            "key_concern": "rebel activity"
+          },
+          "critiques": [],
+          "negotiation_proposals": [],
+          "reactions": [],
+          "interruption": null,
+          "tool_call": null
+        },
+        {
+          "agent_name": "Economist Sera \ud83d\udcca",
+          "round_number": 2,
+          "position": {
+            "recommendation": "renegotiate",
+            "reasoning": "Given the estimated market size and demand score, we can likely negotiate a better deal with our neighbor, preserving our border province while addressing the famine",
+            "confidence": 0.8,
+            "key_concern": "preserving trade relationships"
+          },
+          "critiques": [],
+          "negotiation_proposals": [],
+          "reactions": [],
+          "interruption": null,
+          "tool_call": null
+        },
+        {
+          "agent_name": "Spymaster Vale \ud83d\udd75\ufe0f",
+          "round_number": 2,
+          "position": {
+            "recommendation": "renegotiate",
+            "reasoning": "I suspect the neighbor is hiding something, and I don't want to give away a border province without knowing the full story",
+            "confidence": 0.8,
+            "key_concern": "potential hidden agendas"
+          },
+          "critiques": [],
+          "negotiation_proposals": [],
+          "reactions": [],
+          "interruption": null,
+          "tool_call": null
+        },
+        {
+          "agent_name": "High Priestess Yara \ud83d\ude4f",
+          "round_number": 2,
+          "position": {
+            "recommendation": "ration",
+            "reasoning": "Rationing will allow us to distribute the remaining grain fairly among all citizens, prioritizing the poor and vulnerable, while accepting the neighbor's offer would compromise our moral obligation to protect our own people and territory",
+            "confidence": 0.8,
+            "key_concern": "protecting the poor"
+          },
+          "critiques": [],
+          "negotiation_proposals": [],
+          "reactions": [],
+          "interruption": null,
+          "tool_call": null
+        }
+      ],
+      "market": {
+        "consensus": 0.415,
+        "disagreement": 0.655
+      },
+      "black_swan": null
+    },
+    {
+      "round": 3,
+      "label": "Negotiation & Final Positions",
+      "outputs": [
+        {
+          "agent_name": "King Aldric \ud83d\udc51",
+          "round_number": 3,
+          "position": {
+            "recommendation": "fight",
+            "reasoning": "I will not give away land, our military is strong enough to protect our territory and feed our people through other means",
+            "confidence": 0.8,
+            "key_concern": "preserving territory"
+          },
+          "critiques": [],
+          "negotiation_proposals": [],
+          "reactions": [],
+          "interruption": null,
+          "tool_call": null
+        },
+        {
+          "agent_name": "General Thorne \u2694\ufe0f",
+          "round_number": 3,
+          "position": {
+            "recommendation": "fight",
+            "reasoning": "our army can take the grain by force, and accepting the neighbor's offer would be a sign of weakness",
+            "confidence": 0.9,
+            "key_concern": "rebel activity"
+          },
+          "critiques": [],
+          "negotiation_proposals": [],
+          "reactions": [],
+          "interruption": null,
+          "tool_call": null
+        },
+        {
+          "agent_name": "Economist Sera \ud83d\udcca",
+          "round_number": 3,
+          "position": {
+            "recommendation": "renegotiate",
+            "reasoning": "Given the estimated market size and demand score, we can likely negotiate a better deal with our neighbor, preserving our border province while addressing the famine",
+            "confidence": 0.8,
+            "key_concern": "preserving trade relationships"
+          },
+          "critiques": [],
+          "negotiation_proposals": [],
+          "reactions": [],
+          "interruption": null,
+          "tool_call": null
+        },
+        {
+          "agent_name": "Spymaster Vale \ud83d\udd75\ufe0f",
+          "round_number": 3,
+          "position": {
+            "recommendation": "renegotiate",
+            "reasoning": "I suspect the neighbor is hiding something, and I don't want to give away a border province without knowing the full story",
+            "confidence": 0.8,
+            "key_concern": "potential hidden agendas"
+          },
+          "critiques": [],
+          "negotiation_proposals": [],
+          "reactions": [],
+          "interruption": null,
+          "tool_call": null
+        },
+        {
+          "agent_name": "High Priestess Yara \ud83d\ude4f",
+          "round_number": 3,
+          "position": {
+            "recommendation": "ration",
+            "reasoning": "Rationing will allow us to distribute the remaining grain fairly among all citizens, prioritizing the poor and vulnerable, while accepting the neighbor's offer would compromise our moral obligation to protect our own people and territory",
+            "confidence": 0.8,
+            "key_concern": "protecting the poor"
+          },
+          "critiques": [],
+          "negotiation_proposals": [],
+          "reactions": [],
+          "interruption": null,
+          "tool_call": null
+        }
+      ],
+      "market": {
+        "consensus": 0.415,
+        "disagreement": 0.655
+      },
+      "black_swan": "Spy Confirms Bluff"
+    }
+  ],
+  "synthesis": {
+    "final_recommendation": "renegotiate",
+    "reasoning": "Renegotiation offers a balance between preserving territory, addressing the famine, and considering potential hidden agendas, while also allowing for the exploration of alternative solutions that prioritize the well-being of all citizens.",
+    "points_of_agreement": [
+      "preserving territory is crucial",
+      "addressing the famine is essential",
+      "considering potential hidden agendas is necessary"
+    ],
+    "major_disagreements": [
+      "fighting as a viable solution",
+      "rationing as a sufficient response",
+      "accepting the neighbor's offer without negotiation"
+    ],
+    "confidence_summary": {
+      "King Aldric": 0.8,
+      "General Thorne": 0.9,
+      "Economist Sera": 0.8,
+      "Spymaster Vale": 0.8,
+      "High Priestess Yara": 0.8
+    },
+    "recommended_next_steps": [
+      "initiate renegotiation with the neighbor",
+      "gather more information about the neighbor's intentions",
+      "assess the military's capabilities and preparedness",
+      "develop a contingency plan for rationing or other emergency measures",
+      "establish a task force to monitor rebel activity and potential security threats"
+    ]
+  },
+  "score": {
+    "recommended": "renegotiate",
+    "truth": "delay",
+    "correct": false
+  },
+  "influence": {
+    "King Aldric \ud83d\udc51": 0.0,
+    "General Thorne \u2694\ufe0f": 0.0,
+    "Economist Sera \ud83d\udcca": 0.0,
+    "Spymaster Vale \ud83d\udd75\ufe0f": 0.0,
+    "High Priestess Yara \ud83d\ude4f": 0.0
+  }
+}

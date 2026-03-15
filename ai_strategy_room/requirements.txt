@@ -1,0 +1,22 @@
+# AI Decision Simulation Lab — Dependencies
+# All packages are real, open-source, and available on PyPI.
+
+# --- LLM & Agent Orchestration ---
+langgraph>=0.2.0              # https://langchain-ai.github.io/langgraph/
+langchain-core>=0.3.0         # https://python.langchain.com/docs/introduction/
+langchain-anthropic>=0.3.0    # https://python.langchain.com/docs/integrations/chat/anthropic/
+langchain-openai>=0.2.0       # https://python.langchain.com/docs/integrations/chat/openai/
+langchain-google-genai>=2.0.0 # https://python.langchain.com/docs/integrations/chat/google_generative_ai/
+langchain-groq>=0.2.0         # https://python.langchain.com/docs/integrations/chat/groq/
+
+# --- Data & Validation ---
+pydantic>=2.0                 # https://docs.pydantic.dev/latest/
+pandas>=2.0                   # https://pandas.pydata.org/docs/
+
+# --- UI & Visualization ---
+streamlit>=1.38.0             # https://docs.streamlit.io/
+plotly>=5.18.0                # https://plotly.com/python/
+
+# --- Config & HTTP ---
+python-dotenv>=1.0.0          # https://pypi.org/project/python-dotenv/
+requests>=2.31.0              # https://docs.python-requests.org/
